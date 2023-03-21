@@ -1,3 +1,9 @@
+# Junaid Ahmed
+# Learning From Free Code Camp
+# This project needs enhancements.
+# Will do  it and update.
+# contact: engr.junaidahmedsoomro@gmail.
+
 def add_time (Start_Time, Add_Time, Day =""):
     Final_Time = 0
 
