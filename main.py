@@ -1,3 +1,9 @@
+# Junaid Ahmed
+# Learning From Free Code Camp
+# This project needs enhancements.
+# Will do  it and update.
+# contact: engr.junaidahmedsoomro@gmail.
+
 from Time_Calculator import add_time
 
 add_time("3:00 PM", "3:10")
